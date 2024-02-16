@@ -8,4 +8,4 @@ PRODUCT_PACKAGES += \
 	AuroraServices \
 	AuroraStore \
 	additional_repos.xml \
-	dsep-bootanimation
+	dsep_bootanimation
