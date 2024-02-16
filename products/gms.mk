@@ -7,4 +7,5 @@ PRODUCT_PACKAGES += \
 	FDroidPrivilegedExtension \
 	AuroraServices \
 	AuroraStore \
-	additional_repos.xml
+	additional_repos.xml \
+	dsep-bootanimation
