@@ -9,5 +9,5 @@ PRODUCT_PACKAGES += \
 	AuroraServices \
 	AuroraStore \
 	additional_repos.xml 
-PRODUCT_PACKAGE_OVERLAYS := $(LOCAL_PATH)/overlay
+PRODUCT_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
