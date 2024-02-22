@@ -7,4 +7,8 @@
     <!-- Quick quick settings maximum number of tiles needs to match the now available space -->
     <integer name="quick_qs_panel_max_tiles">6</integer>
 
+    <!-- Default order for tiles, similar to 11 -->
+    <string name="quick_settings_tiles_default" translatable="false">
+        wifi,sim,bt,flashlight,mictoggle,cameratoggle,battery,airplane,location,dnd,rotation,screenrecord,cast,controls,wallet,custom(com.android.permissioncontroller/.permission.service.SafetyCenterQsTileService)
+    </string>
 </resources>
