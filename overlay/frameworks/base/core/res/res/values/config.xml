@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- android auto is android auto -->
+    <string name="config_systemAutomotiveProjection">com.google.android.projection.gearhead</string>
+
+</resources>
